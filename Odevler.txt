@@ -1,0 +1,7 @@
+Ekranları tek klasör altına topla (Yapıldı)
+Mevkileri utils/constants altından al
+Haftanın oyuncuları yanına tümünü sil butonu
+Gereksiz eklentileri sil
+Bottom nav bar iconlarının ve isimlerinin değiştirilmesi
+Hiç oyuncu yokken ekranda uyarı yazısı görünmesi (Listelenecek oyuncu bulunamadı)
+Yedek oyuncu kaldır, bek ekle stoper ekle
